@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Andrii1310/goit-js-hw-08.git"    
+    "url": "git+https://github.com/Andrii1310/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Andrii Miroshnichenko <andy.miroshnichenko@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Andrii1310/goit-js-hw-08/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
@@ -26,7 +26,7 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
-    "@vimeo/player": "^2.16.1",
+    "@vimeo/player": "^2.16.2",
     "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.9.0"
   }
