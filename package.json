@@ -1,22 +1,22 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-08",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://andrii1310.github.io/goit-js-hw-08",
+  "homepage": "https://github.com/Andrii1310/goit-js-hw-08/",            
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"             
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Andrii1310/goit-js-hw-08.git"
+    "url": "git+https://github.com/andrii1310/goit-js-hw-08.git"            
   },
   "keywords": [],
   "author": "Andrii Miroshnichenko <andy.miroshnichenko@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Andrii1310/goit-js-hw-08/issues"
+    "url": "https://github.com/andrii1310/goit-js-hw-08/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
